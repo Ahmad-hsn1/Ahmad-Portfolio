@@ -41,7 +41,7 @@ export const HeroSection = () => {
         <img 
           src={yourImage} 
           alt="Ahmad Hassan Khalid" 
-          className="w-120 h-120 " 
+          className="w-120 h-120 overflow-hidden" 
         />
       </div>
 
