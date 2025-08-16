@@ -35,21 +35,15 @@ export const HeroSection = () => {
             </a>
           </div>
         </div>
+      </div>
 
-
-
-
-
-
-        
-        {/* Image Section */}
+      {/* Image Section */}
       <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
         <img 
           src={yourImage} 
           alt="Ahmad Hassan Khalid" 
           className="w-120 h-120" 
         />
-      </div>
       </div>
 
       {/* Scroll Indicator */}
