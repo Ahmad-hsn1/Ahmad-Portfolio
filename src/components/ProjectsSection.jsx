@@ -14,7 +14,7 @@ const projects = [
       id: 2,
       title: "Project Two",
       description: "This is the second project.",
-      image: "/projects/project2.jpg", 
+      image: "/projects/project2.png", 
       tags: ["JavaScript", "Bootstrap"],
       demoUrl: "#",
       githubUrl: "#",
