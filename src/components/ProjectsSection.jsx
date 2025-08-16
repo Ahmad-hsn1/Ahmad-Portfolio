@@ -12,11 +12,11 @@ const projects = [
     },
     {
       id: 2,
-      title: "Project Two",
-      description: "This is the second project.",
+      title: "MY PORTFOLIO",
+      description: "A fully functional and beautifully designed personal Portfolio Website built with React.js .",
       image: "/projects/project2.png", 
       tags: ["JavaScript", "Bootstrap"],
-      demoUrl: "#",
+      demoUrl: "https://ahmadhsn.netlify.app/",
       githubUrl: "#",
     },
     {
