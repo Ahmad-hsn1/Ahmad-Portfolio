@@ -37,7 +37,7 @@ export const HeroSection = () => {
         </div>
 
         {/* Image Section */}
-      <div className="animate-fade-in-delay-4 md:w-1/2 card-hover">
+      <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
         <img 
           src={yourImage} 
           alt="Ahmad Hassan Khalid" 
