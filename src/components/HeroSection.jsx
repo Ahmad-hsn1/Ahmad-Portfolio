@@ -49,6 +49,9 @@ export const HeroSection = () => {
           className="w-120 h-120" 
         />
       </div>
+
+
+        
     </div>
 
       {/* Scroll Indicator */}
