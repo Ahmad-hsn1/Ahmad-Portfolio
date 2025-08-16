@@ -5,7 +5,7 @@ export const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex flex-col md:flex-row items-center justify-center px-14 mx-80"
+      className="relative min-h-screen flex flex-col md:flex-row items-center justify-center px-4 mx-80"
     >
       <div className="container max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between z-10">
         
@@ -37,10 +37,6 @@ export const HeroSection = () => {
         </div>
 
 
-
-
-
-        
         {/* Image Section */}
       <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
         <img 
@@ -50,8 +46,7 @@ export const HeroSection = () => {
         />
       </div>
 
-
-        
+ 
     </div>
 
       {/* Scroll Indicator */}
