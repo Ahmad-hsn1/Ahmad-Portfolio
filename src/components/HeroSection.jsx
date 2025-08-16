@@ -36,6 +36,11 @@ export const HeroSection = () => {
           </div>
         </div>
 
+
+
+
+
+        
         {/* Image Section */}
       <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
         <img 
@@ -44,9 +49,7 @@ export const HeroSection = () => {
           className="w-120 h-120" 
         />
       </div>
-
-
-      </div>
+    </div>
 
       {/* Scroll Indicator */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce">
