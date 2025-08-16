@@ -35,8 +35,6 @@ export const HeroSection = () => {
             </a>
           </div>
         </div>
-
-
         {/* Image Section */}
       <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
         <img 
