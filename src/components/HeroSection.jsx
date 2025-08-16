@@ -37,6 +37,10 @@ export const HeroSection = () => {
         </div>
 
 
+
+
+
+
         
         {/* Image Section */}
       <div className="md:block animate-fade-in-delay-4 md:w-1/2 card-hover">
@@ -46,9 +50,6 @@ export const HeroSection = () => {
           className="w-120 h-120" 
         />
       </div>
-
- 
-    
       </div>
 
       {/* Scroll Indicator */}
