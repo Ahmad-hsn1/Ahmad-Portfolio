@@ -8,7 +8,7 @@ const projects = [
       image: "/projects/project1.png", 
       tags: ["HTML", "CSS"],
       demoUrl: "https://cyberfictionbyahmad.netlify.app/",
-      githubUrl: "#",
+      githubUrl: "https://github.com/Ahmad-hsn1/cyberfiction",
     },
     {
       id: 2,
