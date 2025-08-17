@@ -17,7 +17,7 @@ const projects = [
       image: "/projects/project2.png", 
       tags: ["React", "Tailwind CSS"],
       demoUrl: "https://ahmadhsn.netlify.app/",
-      githubUrl: "#",
+      githubUrl: "https://github.com/Ahmad-hsn1/Ahmad-Portfolio/",
     },
     {
       id: 3,
