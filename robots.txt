@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ahmadhsn.netlify.app/sitemap.xml
