@@ -7,7 +7,7 @@ const projects = [
       description: "Designed and developed an interactive Anime website using HTML, CSS, and JavaScript.",
       image: "/projects/project1.png", 
       tags: ["HTML", "CSS"],
-      demoUrl: "https://cyberfictionbyahmad.netlify.app/",
+      demoUrl: "https://animate-by-ahmad.netlify.app/",
       githubUrl: "https://github.com/Ahmad-hsn1/cyberfiction",
     },
     {
