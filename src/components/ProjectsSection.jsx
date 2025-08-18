@@ -3,8 +3,8 @@ import { ArrowRight, ExternalLink, GithubIcon } from "lucide-react";
 const projects = [
     {
       id: 1,
-      title: "CYBERFICTION",
-      description: "Designed and developed an interactive CYBERFICTION website using HTML, CSS, and JavaScript.",
+      title: "Anime",
+      description: "Designed and developed an interactive Anime website using HTML, CSS, and JavaScript.",
       image: "/projects/project1.png", 
       tags: ["HTML", "CSS"],
       demoUrl: "https://cyberfictionbyahmad.netlify.app/",
