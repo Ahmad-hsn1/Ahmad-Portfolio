@@ -18,6 +18,7 @@ const skills = [
     {Name : "VS Code", Level: 90, category: "tools"},
     {Name : "CapCut", Level: 100, category: "tools"},
     {Name : "Adobe Premiere Pro", Level: 50, category: "tools"},
+    {Name : "Canva", Level: 80, category: "tools"},
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
