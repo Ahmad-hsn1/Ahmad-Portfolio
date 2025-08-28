@@ -87,7 +87,7 @@ ahmadkhalid2q@gmail.com` `
                             <div>
                                 <h4 className="font-medium px-17"> Location</h4>
                                 <a className="text-muted-foreground hover:text-primary transitions-colors ">
-                                    Awan Colony House no2
+                                    Lahore
                                 </a>
                             </div>
                         </div>
